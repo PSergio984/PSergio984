@@ -24,7 +24,7 @@
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psergio984&show_icons=true&locale=en" alt="psergio984" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psergio984&" alt="psergio984" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psergio984" alt="psergio984" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psergio984&show_icons=true&locale=en&layout=compact" alt="psergio984" /></p>
 
 <br><br><br>
