@@ -4,9 +4,9 @@
 📍 Metro Manila, Philippines
 
 <p align="left">
-  <a href="https://psergio984.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-PSERGIO984.GITHUB.IO-8A1BE0?style=flat-square&logo=google-chrome&logoColor=white" alt="PORTFOLIO" /></a>
-  <a href="https://github.com/PSergio984" target="_blank"><img src="https://img.shields.io/badge/GITHUB-PSERGIO984-181717?style=flat-square&logo=github&logoColor=white" alt="GITHUB" /></a>
-  <a href="mailto:ericgabrielmanabat@plv.edu.ph" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERICGABRIELMANABAT%40PLV.EDU.PH-orange?style=flat-square&logo=gmail&logoColor=white" alt="EMAIL" /></a>
+  <a href="https://psergio984.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-PSERGIO984.GITHUB.IO-8A1BE0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PORTFOLIO" /></a>
+  <a href="https://github.com/PSergio984" target="_blank"><img src="https://img.shields.io/badge/GITHUB-PSERGIO984-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
+  <a href="mailto:ericgabrielmanabat@plv.edu.ph" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERICGABRIELMANABAT%40PLV.EDU.PH-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
 </p>
 
 > I build secure, high-performance web applications and hunt vulnerabilities. Specialising in Python, PHP, and .NET, with hands-on CTF experience.
@@ -33,68 +33,84 @@
 
 #### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-8A1BE0?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-8A1BE0?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-8A1BE0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-8A1BE0?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-8A1BE0?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-8A1BE0?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 #### Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/React-8A1BE0?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-8A1BE0?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Laravel-8A1BE0?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Livewire-8A1BE0?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/Alpine.js-8A1BE0?style=flat-square&logo=alpine.js&logoColor=white" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-8A1BE0?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/.NET-8A1BE0?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/JWT-8A1BE0?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-005544?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/livewire-%23FB70A9.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </p>
 
 #### Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-8A1BE0?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-8A1BE0?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-8A1BE0?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL_Server-8A1BE0?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
 #### Cybersecurity
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-8A1BE0?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Kali_Linux-8A1BE0?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-8A1BE0?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
 #### Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-8A1BE0?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-8A1BE0?style=flat-square&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Cloudflare-8A1BE0?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Railway-8A1BE0?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Docker-8A1BE0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 #### Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-8A1BE0?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-8A1BE0?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-8A1BE0?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio-8A1BE0?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Postman-8A1BE0?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Sentry-8A1BE0?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
-  <img src="https://img.shields.io/badge/Swagger-8A1BE0?style=flat-square&logo=swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Vite-8A1BE0?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Figma-8A1BE0?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
+  <img src="https://img.shields.io/badge/-Swagger-%23C5FA29?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
 
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psergio984&show_icons=true&bg_color=0b0c10&text_color=d1d5db&title_color=c084fc&icon_color=c084fc&border_color=22242d" alt="Eric's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psergio984&background=0b0c10&text=d1d5db&ring=c084fc&fire=c084fc&currStreakNum=f3f4f6&currStreakLabel=d1d5db&sideNums=d1d5db&sideLabels=d1d5db&dates=d1d5db&border=22242d" alt="Eric's GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psergio984&layout=compact&bg_color=0b0c10&text_color=d1d5db&title_color=c084fc&icon_color=c084fc&border_color=22242d" alt="Eric's Top Langs" />
+</div>
+
+---
+
 <p align="left">
-  <a href="https://www.leetcode.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.linkedin.com/in/eric-gabriel-manabat-554697204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://stackoverflow.com/users/27043125" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.leetcode.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/eric-gabriel-manabat-554697204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://stackoverflow.com/users/27043125" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=psergio984&icon=0&color=0" alt="Visitor Count" />
+</div>
