@@ -1,141 +1,100 @@
-### Building Secure & Scalable Software
+# 💻 Eric Gabriel Manabat
+### *Full-Stack Developer & Cybersecurity Enthusiast*
 
 📍 Metro Manila, Philippines
 
 <p align="left">
-  <a href="https://psergio984.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-PSERGIO984.GITHUB.IO-8A1BE0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PORTFOLIO" /></a>
-  <a href="https://github.com/PSergio984" target="_blank"><img src="https://img.shields.io/badge/GITHUB-PSERGIO984-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
-  <a href="mailto:ericgabrielmanabat@plv.edu.ph" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERICGABRIELMANABAT%40PLV.EDU.PH-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
+  <a href="https://psergio984.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-PSERGIO984.GITHUB.IO-8A1BE0?style=flat-square&logo=google-chrome&logoColor=white" alt="PORTFOLIO" /></a>
+  <a href="https://github.com/PSergio984" target="_blank"><img src="https://img.shields.io/badge/GITHUB-PSERGIO984-181717?style=flat-square&logo=github&logoColor=white" alt="GITHUB" /></a>
+  <a href="mailto:ericgabrielmanabat@plv.edu.ph" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERICGABRIELMANABAT%40PLV.EDU.PH-orange?style=flat-square&logo=gmail&logoColor=white" alt="EMAIL" /></a>
 </p>
+
+> I build secure, high-performance web applications and hunt vulnerabilities. Specialising in Python, PHP, and .NET, with hands-on CTF experience.
 
 ---
 
-### 🏆 Achievements
-
-| Competition | Venue | Award |
-| :--- | :--- | :--- |
-| ITlympics 2026 | Pamantasan ng Lungsod ng Valenzuela | 🥈 Silver |
-| ITlympics 2025 | Pamantasan ng Lungsod ng Valenzuela | 🥇 Gold |
-| Gamecon 2026 | Pamantasan ng Lungsod ng Valenzuela | 🥉 Bronze |
-| 14th IT Skills Olympics | University of Makati | 🎖️ Representative |
+### 🏆 Key Achievements
+- 🥈 **Silver Medal** | ITlympics 2026 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🥇 **Gold Medal** | ITlympics 2025 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🥉 **Bronze Medal** | Gamecon 2026 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🎖️ **Representative** | 14th IT Skills Olympics — *University of Makati*
 
 ---
 
 ### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌊 Agos</h4>
-      <p>IoT Flood Monitoring & Alert System</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 CEIT Library</h4>
-      <p>PWA-optimized Library borrowing and QR asset system</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=white" alt="Alpine.js" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 Survey System</h4>
-      <p>Satisfaction survey platform with detractor alerts</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Inertia-9553E8?style=flat-square&logo=inertia&logoColor=white" alt="Inertia" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Datus CTF Writeups</h4>
-      <p>Writeups for HTB, PicoCTF, and vulnerability labs</p>
-      <p>
-        <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite" />
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali" />
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-      </p>
-    </td>
-  </tr>
-</table>
+- **🌊 [Agos](https://agos-app.vercel.app/)** — IoT Flood Monitoring & Alert System built with React, FastAPI, PostgreSQL, and Raspberry Pi.
+- **📚 [PLV CEIT Library](https://ceit-library-main-cru0ty.laravel.cloud/)** — PWA-optimized Library borrowing and QR asset system built with Laravel, Livewire, Alpine.js, and Tailwind CSS.
+- **📊 [Survey System](https://valenzuela-satisfaction-survey-main-plae88.laravel.cloud/)** — Satisfaction survey platform with detractor alerts built with Laravel, React, Inertia, and PostgreSQL.
+- **🛡️ [Datus CTF Writeups](https://datus-ctf-writeups.vercel.app/)** — Writeups for HTB, PicoCTF, and vulnerability labs utilizing Burp Suite, Kali Linux, and Wireshark.
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
 #### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-8A1BE0?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-8A1BE0?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-8A1BE0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-8A1BE0?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-8A1BE0?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-8A1BE0?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 #### Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-005544?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/livewire-%23FB70A9.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/React-8A1BE0?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-8A1BE0?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Laravel-8A1BE0?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Livewire-8A1BE0?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/Alpine.js-8A1BE0?style=flat-square&logo=alpine.js&logoColor=white" alt="Alpine.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-8A1BE0?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/.NET-8A1BE0?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/JWT-8A1BE0?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </p>
 
 #### Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-8A1BE0?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-8A1BE0?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-8A1BE0?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL_Server-8A1BE0?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
 #### Cybersecurity
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-8A1BE0?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Kali_Linux-8A1BE0?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-8A1BE0?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
 #### Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-8A1BE0?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-8A1BE0?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Cloudflare-8A1BE0?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Railway-8A1BE0?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Docker-8A1BE0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 #### Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
-  <img src="https://img.shields.io/badge/-Swagger-%23C5FA29?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-8A1BE0?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-8A1BE0?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-8A1BE0?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-8A1BE0?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Postman-8A1BE0?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Sentry-8A1BE0?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+  <img src="https://img.shields.io/badge/Swagger-8A1BE0?style=flat-square&logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Vite-8A1BE0?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Figma-8A1BE0?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
 
 <p align="left">
-  <a href="https://www.leetcode.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.linkedin.com/in/eric-gabriel-manabat-554697204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://stackoverflow.com/users/27043125" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.leetcode.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/eric-gabriel-manabat-554697204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://stackoverflow.com/users/27043125" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
