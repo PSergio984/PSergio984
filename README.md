@@ -170,7 +170,6 @@ My work balances robust software engineering with security-first development pra
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eric-gabriel-manabat-554697204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://stackoverflow.com/users/27043125" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.leetcode.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
