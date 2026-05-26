@@ -5,7 +5,6 @@
 
 <p align="left">
   <a href="https://ericmanabat-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ERICMANABAT--DEV.VERCEL.APP-8A1BE0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PORTFOLIO" /></a>
-  <a href="https://github.com/PSergio984" target="_blank"><img src="https://img.shields.io/badge/GITHUB-PSERGIO984-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
   <a href="mailto:eric.manabatseam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERIC.MANABATSEAM%40GMAIL.COM-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
 </p>
 
