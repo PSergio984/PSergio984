@@ -21,6 +21,12 @@
 
 ---
 
+### 🎤 Seminars & Workshops
+- 🔒 **Securing Connections: Strategies for Cybersecurity and Network Operations** — *Pamantasan ng Lungsod ng Valenzuela (Oct 2025)*
+- ⚡ **Launch Your Tech Career: The High-Demand Skillset of a Full Stack Web Developer** — *Pamantasan ng Lungsod ng Valenzuela (Sept 2025)*
+
+---
+
 ### 🚀 Featured Projects
 - **🌊 [Agos](https://agos-app.vercel.app/)** — IoT Flood Monitoring & Alert System built with React, FastAPI, PostgreSQL, and Raspberry Pi.
 - **📚 [PLV CEIT Library](https://ceit-library-main-cru0ty.laravel.cloud/)** — PWA-optimized Library borrowing and QR asset system built with Laravel, Livewire, Alpine.js, and Tailwind CSS.
