@@ -157,19 +157,7 @@ My work balances robust software engineering with security-first development pra
   </p>
 </details>
 
----
 
-## 📊 GitHub Stats & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psergio984&show_icons=true&bg_color=0b0c10&text_color=d1d5db&title_color=c084fc&icon_color=c084fc&border_color=22242d" alt="Eric's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psergio984&background=0b0c10&text=d1d5db&ring=c084fc&fire=c084fc&currStreakNum=f3f4f6&currStreakLabel=d1d5db&sideNums=d1d5db&sideLabels=d1d5db&dates=d1d5db&border=22242d" alt="Eric's GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psergio984&layout=compact&bg_color=0b0c10&text_color=d1d5db&title_color=c084fc&icon_color=c084fc&border_color=22242d" alt="Eric's Top Langs" />
-</div>
-
----
 
 ## 🎤 Seminars & Workshops
 
