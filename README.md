@@ -6,31 +6,22 @@
 <p align="left">
   <a href="https://psergio984.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-PSERGIO984.GITHUB.IO-8A1BE0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PORTFOLIO" /></a>
   <a href="https://github.com/PSergio984" target="_blank"><img src="https://img.shields.io/badge/GITHUB-PSERGIO984-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
-  <a href="mailto:ericgabrielmanabat@plv.edu.ph" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERICGABRIELMANABAT%40PLV.EDU.PH-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
+  <a href="mailto:ericgabrielmanabat%40plv.edu.ph" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERICGABRIELMANABAT%40PLV.EDU.PH-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I build secure, high-performance web applications and hunt vulnerabilities. I specialize in Python, PHP, and .NET, backed by hands-on CTF competition experience.</p>
-      <p>My work balances robust software engineering with security-first development practices to build reliable, production-ready systems.</p>
-      <h3>🏆 Key Achievements</h3>
-      <ul>
-        <li>🥈 <b>Silver Medal (CTF)</b> | ITlympics 2026 — <i>PLV</i></li>
-        <li>🥇 <b>Gold Medal (Quiz Bee)</b> | ITlympics 2025 — <i>PLV</i></li>
-        <li>🥉 <b>Bronze Medal</b> | Gamecon 2026 — <i>PLV</i></li>
-        <li>🎖️ <b>Representative (Cybersecurity)</b> | 14th National IT Olympics — <i>UMak</i></li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=psergio984&background=0b0c10&text=d1d5db&ring=c084fc&fire=c084fc&currStreakNum=f3f4f6&currStreakLabel=d1d5db&sideNums=d1d5db&sideLabels=d1d5db&dates=d1d5db&border=22242d" width="280" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+I build secure, high-performance web applications and hunt vulnerabilities. I specialize in Python, PHP, and .NET, backed by hands-on CTF competition experience.
+
+My work balances robust software engineering with security-first development practices to build reliable, production-ready systems.
+
+### 🏆 Key Achievements
+- 🥈 **Silver Medal (CTF)** | ITlympics 2026 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🥇 **Gold Medal (Quiz Bee)** | ITlympics 2025 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🥉 **Bronze Medal** | Gamecon 2026 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🎖️ **Representative (Cybersecurity Quiz Bee)** | 14th National IT Olympics — *University of Makati*
 
 ---
 
@@ -137,6 +128,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psergio984&show_icons=true&bg_color=0b0c10&text_color=d1d5db&title_color=c084fc&icon_color=c084fc&border_color=22242d" alt="Eric's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psergio984&background=0b0c10&text=d1d5db&ring=c084fc&fire=c084fc&currStreakNum=f3f4f6&currStreakLabel=d1d5db&sideNums=d1d5db&sideLabels=d1d5db&dates=d1d5db&border=22242d" alt="Eric's GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psergio984&layout=compact&bg_color=0b0c10&text_color=d1d5db&title_color=c084fc&icon_color=c084fc&border_color=22242d" alt="Eric's Top Langs" />
 </div>
