@@ -14,17 +14,17 @@
 ---
 
 ### 🏆 Key Achievements
-- 🥈 **Silver Medal** | ITlympics 2026 — *Pamantasan ng Lungsod ng Valenzuela*
-- 🥇 **Gold Medal** | ITlympics 2025 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🥈 **Silver Medal (CTF)** | ITlympics 2026 — *Pamantasan ng Lungsod ng Valenzuela*
+- 🥇 **Gold Medal (Cybersecurity Quiz Bee)** | ITlympics 2025 — *Pamantasan ng Lungsod ng Valenzuela*
 - 🥉 **Bronze Medal** | Gamecon 2026 — *Pamantasan ng Lungsod ng Valenzuela*
-- 🎖️ **Representative** | 14th IT Skills Olympics — *University of Makati*
+- 🎖️ **Representative (Cybersecurity)** | 14th IT Skills Olympics — *University of Makati*
 
 ---
 
 ### 🚀 Featured Projects
 - **🌊 [Agos](https://agos-app.vercel.app/)** — IoT Flood Monitoring & Alert System built with React, FastAPI, PostgreSQL, and Raspberry Pi.
 - **📚 [PLV CEIT Library](https://ceit-library-main-cru0ty.laravel.cloud/)** — PWA-optimized Library borrowing and QR asset system built with Laravel, Livewire, Alpine.js, and Tailwind CSS.
-- **📊 [Survey System](https://valenzuela-satisfaction-survey-main-plae88.laravel.cloud/)** — Satisfaction survey platform with detractor alerts built with Laravel, React, Inertia, and PostgreSQL.
+- **📊 [Survey System](https://valenzuela-satisfaction-survey-main-plae88.laravel.cloud/)** — Satisfaction survey portal with detractor alerts built with Laravel, React, Inertia, and PostgreSQL.
 - **🛡️ [Datus CTF Writeups](https://datus-ctf-writeups.vercel.app/)** — Writeups for HTB, PicoCTF, and vulnerability labs utilizing Burp Suite, Kali Linux, and Wireshark.
 
 ---
