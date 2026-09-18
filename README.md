@@ -1,183 +1,92 @@
 # 💻 Eric Gabriel Manabat
-### *Full-Stack Developer & Cybersecurity Enthusiast*
+### Full-Stack AI Engineer
 
-📍 Metro Manila, Philippines
+📍 Metro Manila, Philippines • **B.S. Information Technology (PLV, 1.03 Running GWA)** • **CTF Silver Medalist**
 
 <p align="left">
-  <a href="https://ericmanabat-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ERICMANABAT--DEV.VERCEL.APP-8A1BE0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PORTFOLIO" /></a>
-  <a href="mailto:eric.manabatseam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ERIC.MANABATSEAM%40GMAIL.COM-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
+  <a href="https://ericmanabat.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ericmanabat.is--a.dev-8A1BE0?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:eric.manabatseam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-eric.manabatseam%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/eric-gabriel-manabat-554697204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Eric_Manabat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/PSergio984" target="_blank"><img src="https://img.shields.io/badge/GitHub-PSergio984-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ctf.hackthebox.com/user/profile/1014955" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=flat-square&logo=hackthebox&logoColor=black" alt="HackTheBox" /></a>
+  <a href="https://tryhackme.com/p/eric.manabatseam" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Profile-3399FF?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://www.leetcode.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/LeetCode-psergio984-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-I build secure, high-performance web applications and hunt vulnerabilities. I specialize in Python, PHP, and .NET, backed by hands-on CTF competition experience.
+I build full-stack systems and production AI architectures with strict security-first engineering. My focus centers on bounded agentic systems, hybrid neural retrieval (BM25 + Dense RRF), and resilient edge IoT computer vision, engineered with defensive AppSec principles (RBAC, PII redaction, Row-Level Security).
 
-My work balances robust software engineering with security-first development practices to build reliable, production-ready systems.
+- 🎓 **Academic Standing**: Senior B.S. Information Technology student at Pamantasan ng Lungsod ng Valenzuela (PLV) — **1.03 Running GWA**, Consistent Dean's Lister.
+- 🛡️ **Defensive Mindset**: Hands-on competitive CTF player (HTB, PicoCTF, ITlympics) applying threat modeling and vulnerability hunting to audit web services from the outside in.
+- 🎨 **Design Rigor**: TESDA Visual Graphics Design NC III certified, bringing high typographic polish and design system consistency to complex data-heavy interfaces.
 
-### 🏆 Key Achievements
+---
+
+## 💼 Work Experience
+
+### **FlyRank AI** — *Full-Stack AI Engineer Intern*
+`JUN 2026 – PRESENT` • *Remote*
+- **Retrieval Accuracy**: Architected and deployed an autonomous FastAPI AI sidecar microservice, **increasing Top-1 retrieval accuracy from 81.8% to 86.4%** on ground-truth benchmarks by fusing BM25 (SQLite FTS5) and dense vector search via Reciprocal Rank Fusion (RRF, $k=60$) with deterministic blend reranking.
+- **Hallucination Elimination**: Engineered a bounded 3-step agentic query loop with cosine similarity gating ($<0.50$ threshold) and inline numbered citations, achieving a **100% negative query pass rate** and **90% LLM-as-judge relevance score** (`llama-3.3-70b`).
+- **Latency & Telemetry**: Reduced time-to-first-token (TTFT) by **~65%** via asynchronous Server-Sent Events (SSE) streaming APIs, backed by Prometheus `/metrics` latency histograms and a 6-chart Dockerized Grafana monitoring dashboard.
+
+### **Nexvision Innovations Inc.** — *Full Stack Software Engineering Intern (Team Lead)*
+`JUN 2026 – PRESENT` • *Marikina (Hybrid)*
+- **Statutory Compliance**: Ensured **100% DOLE compliance** across 4 enterprise HRIS applications by auditing payroll calculation engines and implementing interval-partitioned time algorithms to isolate 10 PM – 6 AM night differentials from standard overtime multipliers.
+- **Automated Payroll**: Automated statutory multi-tier deductions and 13th-month proration across **500+ employee records** using TypeScript/Next.js calculation modules for progressive SSS/WISP, PhilHealth, and Pag-IBIG regular/MP2 brackets with immutable audit trails.
+- **Multi-Tenant Security**: Hardened PostgreSQL and Supabase data layers against cross-branch data leaks by enforcing strict branch-scoped row-level security (RLS) query constraints.
+- **CI/CD Acceleration**: Cut runner execution times by **40% (~12m down to ~7m)** in GitHub Actions and Jenkins by architecting an offline mock testing daemon that eliminated flaky external DNS timeouts.
+- **Sprint Leadership**: Led sprint execution and technical code reviews across **180+ Jira/GitHub issues** as Intern Team Lead, enforcing TypeScript type safety and clean architecture standards.
+
+---
+
+## 🚀 Flagship Systems & Deep Technical Challenges
+
+### 1. [PLV eLib — CEIT Library System + AI Sidecar](https://github.com/PSergio984/CEIT-Library)
+*Decoupled Dual-Engine Architecture: Core Web Monolith + Autonomous FastAPI AI Sidecar*
+- **The Challenge**: The university library required fast, reliable catalog search and automated Q&A over institutional research docs without vendor lock-in, hallucinations, or crashing the primary web server.
+- **Architecture & Engineering**:
+  - Decoupled a Laravel 11 monolith (PHP 8.4, PostgreSQL, Livewire 3, MaryUI, QR borrowing) from an external FastAPI AI Sidecar ([`PSergio984/ceit-ai-sidecar`](https://github.com/PSergio984/ceit-ai-sidecar)).
+  - Implemented hybrid neural retrieval fusing SQLite FTS5 (BM25) with `all-MiniLM-L6-v2` dense embeddings using Reciprocal Rank Fusion (RRF, $k=60$), lifting retrieval from 81.8% to 86.4% Top-1.
+  - Bounded agentic loop with cosine similarity gating ($<0.50$) that forces deterministic refusal on zero context, completely eliminating out-of-domain hallucinations.
+- **Verification & Telemetry**: 600+ PHPUnit tests, 78 pytest tests, evaluated against a 27-case golden set ($P@5$: 0.45, $R@5$: 0.72, Top-1: 86.36%). Monitored via Prometheus latency histograms and Dockerized Grafana.
+
+### 2. [AGOS — AI-Guided Overflow Surveillance](https://agos-platform.vercel.app/)
+*Solar-Powered Edge IoT Flood Surveillance System for Barangay Maysan*
+- **The Challenge**: High-resolution flood monitoring in remote, low-bandwidth urban waterways with strict solar battery constraints and severe network dropouts.
+- **Architecture & Engineering**:
+  - **92% Compute Reduction**: Decoupled a lightweight 15-second camera feed for live human monitoring from a 3-minute server-side YOLOv8 inference cycle, slashing continuous compute demands and preventing thermal throttling on Raspberry Pi Zero 2W.
+  - **Sensor & Decision Fusion**: Engineered a composite 0–100 hazard scoring algorithm fusing ultrasonic depth telemetry (JSN-SR04T) with debris detection (YOLOv8) and weather API alerts.
+  - **Alert Fatigue Prevention**: Integrated 3-tier hardware LEDs (Safe/Warning/Critical) with SMS/push notification throttling enforcing a strict 30-minute cooldown.
+  - **Dataset Engineering**: Curated and annotated 5,000 drainage images on CVAT.ai with OpenCV frame quality pre-filtering.
+
+### Additional Production & Open-Source Systems
+
+| Project | Architecture & Stack | Hard Problem Solved |
+| :--- | :--- | :--- |
+| **[Task-Buddy](https://task-buddy-frontend.vercel.app/)** | React 19, TypeScript, FastAPI, Supabase, pgvector, Redis, Groq | Hybrid BM25 + Jina v3 vector retrieval with sub-500ms Groq `llama-3.3-70b` planning fallback; historical completion-based effort estimation; real-time WebSockets. |
+| **[Survey Portal](https://valenzuela-satisfaction-survey-main-plae88.laravel.cloud/)** | Laravel 12, Inertia.js 2, React 19, Filament 4, PostgreSQL | Recursive `PiiScrubberProcessor` sanitizing sensitive PII from application logs; real-time detractor alerts via synchronous `AnswerObserver`; 146 automated tests with 5,856 assertions. |
+| **[CTF Writeups](https://datus-ctf-writeups.vercel.app/)** | Next.js, Markdown, Tailwind CSS | Curated vulnerability analysis and exploitation walkthroughs across HackTheBox, PicoCTF, and web application security labs. |
+
+---
+
+## 🛠️ Technical Stack & Architectural Competencies
+
+- **AI, RAG & Vector Systems**: FastAPI, LangChain, LangGraph, pgvector, Pinecone, ChromaDB, SQLite FTS5 (BM25), Hybrid RRF Search, YOLOv8, OpenCV, Prometheus, Grafana, LLM-as-Judge Evaluation, Server-Sent Events (SSE)
+- **Languages**: TypeScript, JavaScript (ES6+), Python, PHP (8.4), C# / .NET, Java, SQL
+- **Frontend & UI**: Next.js (App Router), React 19, Tailwind CSS v4, shadcn/ui, MaryUI, Filament 4, Livewire 3, Alpine.js, Zustand, Figma
+- **Backend & Databases**: FastAPI, Laravel 11/12, Node.js, PostgreSQL, Supabase, Redis, MySQL, MongoDB, SQLite
+- **Cloud, DevOps & Tooling**: Docker, Jenkins, GitHub Actions, AWS, Google Cloud (GCP), Vercel, Cloudflare, Render, Railway, Vite, Sentry
+- **Defensive Security & AppSec**: Burp Suite, Wireshark, Kali Linux, Role-Based Access Control (RBAC), Row-Level Security (RLS), PII Masking, OWASP Top 10 Auditing
+
+---
+
+## 🏆 Honors & Competitions
+
 - 🥈 **Silver Medal (CTF)** | ITlympics 2026 — *Pamantasan ng Lungsod ng Valenzuela*
 - 🥇 **Gold Medal (Quiz Bee)** | ITlympics 2025 — *Pamantasan ng Lungsod ng Valenzuela*
 - 🥉 **Bronze Medal** | Gamecon 2026 — *Pamantasan ng Lungsod ng Valenzuela*
 - 🎖️ **Representative (Cybersecurity Quiz Bee)** | 14th National IT Olympics — *University of Makati*
-
----
-
-## 🚀 Featured Projects
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌊 <a href="https://agos-app.vercel.app/">Agos</a></h3>
-      <p>AI-guided flood monitoring & alert system fusing camera feeds (YOLOv8) and ultrasonic depth telemetry using Raspberry Pi Zero W.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-005544?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📅 <a href="https://task-buddy-frontend.vercel.app/">Task-Buddy</a></h3>
-      <p>Modern task management dashboard featuring dynamic status updates, priority sorting, category tagging, and real-time dashboard analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%2019-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/FastAPI-005544?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://ceit-library-main-cru0ty.laravel.cloud/">PLV CEIT Library</a></h3>
-      <p>PWA-optimized asset borrowing and QR tracking system for PLV, delivering secure role-based access and real-time notifications.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Livewire-%23FB70A9.svg?style=flat-square&logo=livewire&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://valenzuela-satisfaction-survey-main-plae88.laravel.cloud/">Survey System</a></h3>
-      <p>Satisfaction survey portal featuring dynamic survey builder, detractor alerts, and queued background reporting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>🛡️ View More Projects</b></summary>
-  <br />
-  
-  - **[Datus CTF Writeups](https://datus-ctf-writeups.vercel.app/)** — Writeups for HTB, PicoCTF, and vulnerability labs utilizing Burp Suite, Kali Linux, and Wireshark.
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-  <summary><b>Languages</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/FastAPI-005544?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Cybersecurity</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Frontend & UI/UX</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-    <img src="https://img.shields.io/badge/livewire-%23FB70A9.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-    <img src="https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Database</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>DevOps & Cloud</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Tools</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/-Swagger-%23C5FA29?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-    <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  </p>
-</details>
-
-
-
-## 🎤 Seminars & Workshops
-
-- 🔒 **Securing Connections: Strategies for Cybersecurity and Network Operations** — *Pamantasan ng Lungsod ng Valenzuela (Oct 2025)*
-- ⚡ **Launch Your Tech Career: The High-Demand Skillset of a Full Stack Web Developer** — *Pamantasan ng Lungsod ng Valenzuela (Sept 2025)*
-
----
-
-## 🔗 Find Me On
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/eric-gabriel-manabat-554697204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/27043125" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://www.leetcode.com/psergio984" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
-
-## 🛡️ Hacking & Coding Platforms
-
-<p align="left">
-  <a href="https://ctf.hackthebox.com/user/profile/1014955" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" /></a>
-  <a href="https://tryhackme.com/p/eric.manabatseam" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-3399FF?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://www.hackerrank.com/profile/eric_manabatseam" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://www.codewars.com/users/PSergio984" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a>
-</p>
